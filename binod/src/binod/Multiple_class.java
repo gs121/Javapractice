@@ -5,8 +5,8 @@ public class Multiple_class {
 	{
 		
 		Multiple2class a = new Multiple2class();
-		a.displaymovie();
-System.out.print(a.toString());	}
+		 a.displaymovie();
+	}
 	
 	
 
