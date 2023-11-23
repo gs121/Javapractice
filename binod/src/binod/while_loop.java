@@ -1,6 +1,6 @@
 package binod;
 
-public class abc {
+public class while_loop {
 	
 	
 		
